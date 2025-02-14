@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Slab:wght@100..900&display=swap');
+
+html{
+    font-family: "Poppins", serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f8f4f4;
+}
+
+header{
+    background-color: #AA7475;
+    padding-top: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    color: white;
+    line-height: 1.0;
+}
+main{
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    margin: 0;
+}
+
+h1{
+    font-family: "Poppins", serif;
+    font-weight: 200;
+    font-style: normal;
+    color: white;
+    font-size: 24;
+}
+a{
+    display: inline;
+    text-decoration: none;
+    color: #644444;
+    font-weight: bold;
+}
+.recipe-info{
+    padding: 20px;
+    background-color: #C6D5DC;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 1.0;
+}
+.featured-recipe{
+    display: flex;
+    border: 1px solid #e0e0e0;
+    background-color: #C6D5DC;
+
+}
+.highlight-text{
+    color: #6E617C;
+    font-size: 40px;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-top: 0;
+    border-bottom: 0;
+    line-height: 0.7;
+}
+.recipe-description{
+    color: #555;
+    font-size: 16px;
+    padding-top: 0;
+    margin-top: 0;
+    border-top: 0;
+}
+#vm{
+    background-color: #FFFFFF;
+    color: #644444;
+}
+button{
+    background-color: #E7C7C8;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+#recetastit{
+    color: #644444;
+    font-size: 30px;
+    padding-bottom: 0;
+}
+#inforec1{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 0.7;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: 0;
+
+}
+#rec1 {
+    display: flex;
+    align-items: center;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border-bottom: 0;
+}
+#titrec1{
+    color: #644444;
+    font-size: 22px;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-top: 0;
+    border-bottom: 0;
+}
+#ingrec1{
+    font-size: 14px;
+}
+#listingrec1{
+    line-height: 1.0;
+}
+#preprec1{
+    padding-top: 0;
+    margin-top: 0;
+    border-top: 0;
+    font-size: 14px;
+    line-height: 1.0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
