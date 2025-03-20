@@ -5,24 +5,50 @@ html{
 }
 
 body{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     background-color: #f8f4f4;
 }
-
-header{
+footer{
     background-color: #AA7475;
-    padding-top: 2px;
+    color: white;
+    text-align: center;
+    padding-left: 50px;
+    padding-top: 11px;
+    padding-right: 50px;
+    padding-bottom: 11px;
+    font-size: 14px;
+}
+header{
+    position: fixed;
+    background-color: #AA7475;
+    padding-top: 11px;
     padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
+    padding-right: 901px;
+    padding-bottom: 31px;
     color: white;
     line-height: 1.0;
+}
+#icon{
+    animation-name: icon;
+    animation-duration: 8s;
+    animation-iteration-count: 1;
+    position: absolute;
+    margin-left: 91%;
+    margin-top: -58px;
+}
+@keyframes icon {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
 }
 main{
     padding-left: 60px;
     padding-right: 60px;
-    padding-top: 22px;
+    padding-top: 150px;
     padding-bottom: 22px;
     margin: 0;
 }
@@ -125,111 +151,50 @@ button{
 #preprec1{
     padding-top: 0;
     margin-top: 0;
+    margin-bottom: 80px;
     border-top: 0;
     font-size: 14px;
     line-height: 1.0;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#inforec2{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 0.7;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+#rec2 {
+    display: flex;
+    align-items: center;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border-bottom: 0;
+}
+#titrec2{
+    color: #644444;
+    font-size: 22px;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-top: 0;
+    border-bottom: 0;
+}
+#ingrec2{
+    font-size: 14px;
+}
+#listingrec2{
+    line-height: 1.0;
+}
+#preprec2{
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 80px;
+    border-top: 0;
+    font-size: 14px;
+    line-height: 1.0;
+}
